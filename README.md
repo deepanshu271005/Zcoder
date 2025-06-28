@@ -38,4 +38,4 @@ ZCoder is a web-based coding platform built to help developers practice coding, 
 
 1. **Clone the repo:**
    ```bash
-   git clone https://github.com/aryan860/zcoder.git
+   git clone https://github.com/deepanshu271005/Zcoder.git
